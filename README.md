@@ -1,4 +1,4 @@
-# IT – Softwareentwickler JavaScript Aufgabe 4: pdf generator script 
+ pdf generator script 
 
 ## Usage
 
