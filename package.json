@@ -1,0 +1,28 @@
+{
+  "name": "pdf-generator-script",
+  "version": "1.0.0",
+  "description": "Demo to generate invoices as pdf via nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "demo",
+    "pdf",
+    "nodejs"
+  ],
+  "author": "Thomas Zanthoff",
+  "license": "MIT",
+  "dependencies": {
+    "pdfmake": "^0.1.18"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webcore-it/pdf-generator-script.git"
+  },
+  "bugs": {
+    "url": "https://github.com/webcore-it/pdf-generator-script/issues"
+  },
+  "homepage": "https://github.com/webcore-it/pdf-generator-script#readme"
+}
